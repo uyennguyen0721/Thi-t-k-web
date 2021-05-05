@@ -140,11 +140,11 @@ div.sanpham > div > img{
 	padding: 0;
 	text-align: center;
 }
-.list{
+.wow{
 	margin-right: 20px;
 	margin-bottom: 20px;
 }
-.list:hover img{
+.wow:hover img{
 	transform: scale(1.15);
 	transition: 1s;
 }
